@@ -1,4 +1,6 @@
 # ros2_ackermann
+
+![alt text](<Screenshot from 2024-09-10 12-28-29.png>)
 Simple ros2 humble ackermann drive that use default gazebo ackermann plugin.
 
 How to install.
